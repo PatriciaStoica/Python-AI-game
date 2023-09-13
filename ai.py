@@ -1,7 +1,6 @@
 import random
 import copy
 
-
 class AI:
     def __init__(self, random_ai=1, player=2):
         self.random_ai = random_ai

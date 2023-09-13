@@ -2,7 +2,6 @@ import pygame
 import sys
 from constants import *
 
-
 class UI():
 
     def __init__(self, game, board, ai):

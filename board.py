@@ -3,7 +3,6 @@ import numpy as np
 import pygame
 screen = pygame.display.set_mode((width, height))
 
-
 class Board:
     def __init__(self):
         self.squares = np.zeros((rows, columns))

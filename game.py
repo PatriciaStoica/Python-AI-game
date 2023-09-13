@@ -4,7 +4,6 @@ import pygame
 from constants import *
 screen = pygame.display.set_mode((width, height))
 
-
 class Game:
     def __init__(self):
         self.console_board = Board()

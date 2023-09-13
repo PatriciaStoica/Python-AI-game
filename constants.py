@@ -1,6 +1,5 @@
 width = 600
 height = 600
-
 rows = 3
 columns = 3
 
